@@ -1,3 +1,13 @@
 .spaced {
   margin: 100px,50px, 100px, 50px;
 }
+.ss1 {
+display: block;
+  width: 70vw;
+  max-width: 600px;
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
