@@ -372,8 +372,6 @@ font-size: 18px;
   }
 }
 
-
-/* 🔧 Responsive adjustments for tablets (up to 768px wide) */
 @media (max-width: 768px) {
   .top-menu {
     flex-direction: column;
@@ -413,7 +411,6 @@ font-size: 18px;
   }
 }
 
-/* 📱 Responsive adjustments for small screens/phones (up to 480px wide) */
 @media (max-width: 480px) {
   .top-menu {
     padding: 10px;
