@@ -219,6 +219,27 @@ color: white;
 font-size: 20px;
 }
 
+.click {
+border: 3px solid rgb(0, 0, 0);
+padding: 4px;
+background-color: rgb(88, 0, 126);
+width: fit-content;
+margin: 0 auto;
+text-align: center;
+color: white;
+font-size: 20px;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+
+ .click:hover {
+    background-color: rgb(114, 31, 202);
+    transform: scale(1.1);  
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+    border-color: #00000033;
+}
+
+
 a {
   text-decoration: none;
 }
