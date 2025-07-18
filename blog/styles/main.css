@@ -107,6 +107,26 @@ body {
   margin-bottom: 15px;
 }
 
+.ss4 {
+  display: block;
+  width: 70vw;
+  max-width: 40%;
+  height: auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.ss5 {
+  display: block;
+  width: 70vw;
+  max-width: 40%;
+  height: auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .highlight {
 border: 3px solid rgb(0, 0, 0);
 padding: 1px;
