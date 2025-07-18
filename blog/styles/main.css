@@ -201,6 +201,13 @@ background-color:  rgb(134, 79, 181);
 ul {
 color: white;
 font-size: 20px;
+text-align: center;    
+list-style-position: inside;  
+}
+
+ol {
+color: white;
+font-size: 20px;
 }
 
 p {
@@ -256,6 +263,11 @@ transition: all 0.3s ease;
     transform: scale(1.1);  
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
     border-color: #00000033;
+}
+
+.middle {
+justify-content: center; 
+text-align: center;  
 }
 
 a {
