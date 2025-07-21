@@ -318,6 +318,10 @@ font-size: 18px;
     border-color: #00000033;
 }
 
+.top-menu ul li {
+  margin-bottom: 10px;
+}
+
 @media (max-width: 2560px) {
   .top-menu {
     flex-direction: column;
